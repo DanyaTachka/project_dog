@@ -204,8 +204,7 @@ li{
 }
 .footer-text{
     display: flex;
-    justify-content: center;
-    padding-left: 880px;
+    flex-direction: column;
     color:#FFFFFF
 }
 .footer-img{
