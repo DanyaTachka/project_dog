@@ -203,8 +203,9 @@ li{
     padding-bottom: 36px;
 }
 .footer-text{
-    display: block;
-    justify-content: right;
+    display: flex;
+    justify-content: center;
+    padding-left: 880px;
     color:#FFFFFF
 }
 .footer-img{
