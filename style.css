@@ -202,8 +202,14 @@ li{
     padding-top: 36px;
     padding-bottom: 36px;
 }
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .footer-text{
     display: flex;
+    justify-content: center;
     flex-direction: column;
     color:#FFFFFF
 }
