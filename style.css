@@ -69,7 +69,7 @@ li{
     border: none;
     border-radius: 5px;
     color: #000000;
-    letter-spacing: 6px;
+    letter-spacing: 0.06em;
 
 }
 
@@ -105,7 +105,7 @@ li{
     font-size: 24px;
     border: none;
     border-radius: 5px;
-    letter-spacing: 6px;
+    letter-spacing: 0.06em;
 }
 .features {
     padding-top: 60px;
@@ -155,7 +155,7 @@ li{
 .service-list{
     display: flex;
     padding-top: 60px;
-    gap: 56px;
+    gap: 20px;
 }
 .service-title{
     text-align: center;
@@ -174,7 +174,7 @@ li{
     flex-direction: column;
     align-items: flex-start;
 }
-.service-text.item {
+.service-name{
   display: flex;
   align-items: left;
   margin-top: 25px;
@@ -188,7 +188,7 @@ li{
     font-size: 24px;
     border: 3px solid #B2FFA6;
     border-radius: 5px;
-    letter-spacing: 6px;
+    letter-spacing: 0.06em;
 }
 .footer{
     background-color: #121212;
