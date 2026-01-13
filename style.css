@@ -155,7 +155,7 @@ li{
 .service-list{
     display: flex;
     padding-top: 60px;
-    gap: 48px;
+    gap: 56px;
 }
 .service-title{
     text-align: center;
