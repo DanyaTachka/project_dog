@@ -105,7 +105,7 @@ li{
     font-size: 24px;
     border: none;
     border-radius: 5px;
-    letter-spacing: 0.06em;
+    letter-spacing: 6px;
 }
 .features {
     padding-top: 60px;
@@ -154,12 +154,12 @@ li{
 }
 .service-list{
     display: flex;
+    padding-top: 60px;
     gap: 48px;
 }
 .service-title{
     text-align: center;
     font-size: 40px;
-    padding-top: 60px;
     padding-bottom: 40px;
     font-weight: 700;
 }
